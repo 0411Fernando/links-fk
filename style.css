@@ -1,5 +1,6 @@
 body {
-  background-color: #7012A4;
+background: #440157;
+background: linear-gradient(90deg,rgba(68, 1, 87, 1) 0%, rgba(177, 61, 209, 1) 50%, rgba(49, 1, 64, 1) 100%);
   font-family: 'Poppins', sans-serif;
   display: flex;
   justify-content: center;
@@ -15,7 +16,7 @@ body {
   text-align: center;
   max-width: 350px;
   width: 100%;
-  background-image: url(/src/fundo1.jpg);
+  background-image: url(/src/fundo0.jpg);
   padding:40px;
   border-radius: 20px;
   box-shadow: 0 0 20px rgba(0,0,0,0.5);
@@ -48,7 +49,7 @@ p {
 
 .links a {
   display: block;
-  background: rgb(192, 113, 248);
+  background: rgb(52, 0, 89);
   color: #ffffff;
   padding: 12px;
   margin: 10px 0;
